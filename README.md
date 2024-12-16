@@ -6,8 +6,13 @@ Learning Golang with Mastersway
 - Изучите базовые концепции языка:
     - Переменные, типы данных, функции.
     - Управляющие конструкции (if, for, switch).
+    - pointer, structs, slices, and maps
     - Пакеты и импорт.
     - defer, panic, recover.
+    - Функции и замыкания
+    - Методы и интерфейсы
+    - Общие типы (Generics)
+    - Конкурентность (Concurrency)
 
 ---
 
